@@ -1,0 +1,11 @@
+.boxs {
+    display: flex;
+    /* flex-wrap: wrap; */
+}
+.box {
+    border: 1px solid gray;
+}
+.sub-container {
+    display: flex;
+    width: 80%;
+}
